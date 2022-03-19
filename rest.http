@@ -11,7 +11,6 @@ Content-Type: application/json
     "price": "340"
 }
 
-
 ### get single prodct  by id
 GET http://localhost:3000/products/6235ad6d853d29924796d335
 
@@ -24,7 +23,6 @@ Content-Type: application/json
     "name": "Nokia Lumia 2022",
     "price": 675
 }
-
 
 ### delete single product  by id
 DELETE http://localhost:3000/products/6236170470a9cc9873dbd2b1
